@@ -1,0 +1,16 @@
+C:\Users\Serhat\source\repos\tekrar_eden_string\tekrar_eden_string\bin\Debug\net5.0\tekrar_eden_string.exe
+C:\Users\Serhat\source\repos\tekrar_eden_string\tekrar_eden_string\bin\Debug\net5.0\tekrar_eden_string.deps.json
+C:\Users\Serhat\source\repos\tekrar_eden_string\tekrar_eden_string\bin\Debug\net5.0\tekrar_eden_string.runtimeconfig.json
+C:\Users\Serhat\source\repos\tekrar_eden_string\tekrar_eden_string\bin\Debug\net5.0\tekrar_eden_string.runtimeconfig.dev.json
+C:\Users\Serhat\source\repos\tekrar_eden_string\tekrar_eden_string\bin\Debug\net5.0\tekrar_eden_string.dll
+C:\Users\Serhat\source\repos\tekrar_eden_string\tekrar_eden_string\bin\Debug\net5.0\ref\tekrar_eden_string.dll
+C:\Users\Serhat\source\repos\tekrar_eden_string\tekrar_eden_string\bin\Debug\net5.0\tekrar_eden_string.pdb
+C:\Users\Serhat\source\repos\tekrar_eden_string\tekrar_eden_string\obj\Debug\net5.0\tekrar_eden_string.csproj.AssemblyReference.cache
+C:\Users\Serhat\source\repos\tekrar_eden_string\tekrar_eden_string\obj\Debug\net5.0\tekrar_eden_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serhat\source\repos\tekrar_eden_string\tekrar_eden_string\obj\Debug\net5.0\tekrar_eden_string.AssemblyInfoInputs.cache
+C:\Users\Serhat\source\repos\tekrar_eden_string\tekrar_eden_string\obj\Debug\net5.0\tekrar_eden_string.AssemblyInfo.cs
+C:\Users\Serhat\source\repos\tekrar_eden_string\tekrar_eden_string\obj\Debug\net5.0\tekrar_eden_string.csproj.CoreCompileInputs.cache
+C:\Users\Serhat\source\repos\tekrar_eden_string\tekrar_eden_string\obj\Debug\net5.0\tekrar_eden_string.dll
+C:\Users\Serhat\source\repos\tekrar_eden_string\tekrar_eden_string\obj\Debug\net5.0\ref\tekrar_eden_string.dll
+C:\Users\Serhat\source\repos\tekrar_eden_string\tekrar_eden_string\obj\Debug\net5.0\tekrar_eden_string.pdb
+C:\Users\Serhat\source\repos\tekrar_eden_string\tekrar_eden_string\obj\Debug\net5.0\tekrar_eden_string.genruntimeconfig.cache
